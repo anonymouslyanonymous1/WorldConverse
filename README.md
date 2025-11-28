@@ -28,6 +28,7 @@
 | <img src="./frontend/public/desktopHome.png"/> | <img src="./frontend/public/desktopCore.png"/> | <img src="./frontend/public/desktopSidebar.png"/> | <img src="./frontend/public/desktopChatbar.png"/> |
 
 ## Breakdown of the project
+- The frontend and backend are decoupled. They work in parallel.
 - React was used instead of vanilla JS, so had to take into account virtual DOMs, React trees, context providers (for state-sharing between components)
 - The pages are static/server rendered, this helps with SEO
 - Customised the [OpenFreeMap](https://openfreemap.org/) theme
