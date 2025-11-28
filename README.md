@@ -20,12 +20,12 @@
 - Works **both** on mobile 📱 and desktop 🖥️
   
 | Mobile Home Page | Mobile Core | Mobile Sidebar | Mobile Chatbar |
-|------------------|--------------------|--------------------|--------------------|
-| <img src="./frontend/public/mobileHome.png> | <img src="./frontend/public/mobileCore.png> | <img src="./frontend/public/mobileSidebar.png> | <img src="./frontend/public/mobileChatbar.png> |
+|:------------------:|:--------------------:|:--------------------:|:--------------------:|
+| <img src="./frontend/public/mobileHome.png"/> | <img src="./frontend/public/mobileCore.png"/> | <img src="./frontend/public/mobileSidebar.png"/> | <img src="./frontend/public/mobileChatbar.png"/> |
 
 | Desktop Home Page | Desktop Core | Desktop Sidebar | Desktop Chatbar |
-|------------------|--------------------|--------------------|--------------------|
-| <img src="./frontend/public/desktopHome.png> | <img src="./frontend/public/desktopCore.png> | <img src="./frontend/public/desktopSidebar.png> | <img src="./frontend/public/desktopChatbar.png> |
+|:------------------:|:--------------------:|:--------------------:|:--------------------:|
+| <img src="./frontend/public/desktopHome.png"/> | <img src="./frontend/public/desktopCore.png"/> | <img src="./frontend/public/desktopSidebar.png"/> | <img src="./frontend/public/desktopChatbar.png"/> |
 
 ## Breakdown of the project
 - React was used instead of vanilla JS, so had to take into account virtual DOMs, React trees, context providers (for state-sharing between components)
