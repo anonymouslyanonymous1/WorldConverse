@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Gacor;
+  src: url('/fonts/Gacor.ttf') format('truetype');
+}
+@font-face {
+  font-family: Highway;
+  src: url('/fonts/Highway.ttf') format('truetype');
+}
+
+body {
+  background-image: url("../../public/bg.png");
+  background-size: contain;
+  background-color: white;
+}
+.scrollwheel::-webkit-scrollbar {
+  display: none;
+}
+.scrollwheel {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+*{
+  scroll-behavior: smooth;
+}
