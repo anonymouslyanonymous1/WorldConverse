@@ -4,11 +4,18 @@
 <img src="https://skillicons.dev/icons?i=python,django,nextjs,react,tailwind&theme=dark"/> 
 
 ## What is it?
-- A site that allows you converse, in realtime, to people around the world with shared interests, building up a **Core**
+- A site that allows you to converse, in realtime, to people around the world with shared interests, building up a **Core**
     - Core is a circle on map - initially 200m radius
     - The core **enlarges** as more and more people join the core (join as in have at least 1 message in core)
     - Larger the core, the higher up on the list on sidebar
 - It's a **combination of all** top-tier social medias - that's what makes it distinct
+- As soon as something happens around the world, anybody can come in open a core in that very location. Somebody that wants to learn more about that event can search the location up and conversate with more people about it.
+  - They can learn about it, provide their opinions, take sides if it's controversial (defend)
+  - On other platforms, like X, if something happens, the information is very scattered, somebody is saying something, somebody else saying something else. But here, everything would be organised.
+    - On Discord it's organised, BUT you don't know which server to join to discuss it (Discord doesnt provide a search feature for smaller servers). Here, you can just go to the location as said before.
+      - Subreddits are more easily discoverable BUT Reddit's upvoting and downvoting system can be manipulated to hide certain posts
+- Not just this, if somebody is bored, users can **explore** locations and see what other people from various parts of the world are discussing in their cores - literally envisioning the idea of a global village that the internet has long been said as
+- You can communicate to people in your locality as well, forming greater unity
 
 | Top Social Platforms | WorldConverse |
 |:-----------:|:------------:|
